@@ -22,7 +22,7 @@ Click the button below to automatically set up this example to run on your own H
 
 or (in case you're feelin' experimental)
 
-[![Deploy to Swifton.me](https://serve.swifton.me/badge.png)](https://serve.swifton.me/oneclick?repository=https://github.com/SwiftOnMe/swifton-serve-example)
+[![Deploy to Swifton.me](https://serve.swifton.cloud/badge.png)](https://serve.swifton.cloud/oneclick?repository=https://github.com/SwiftOnMe/swifton-serve-example)
 
 ### Options
 
